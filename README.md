@@ -1,1 +1,1 @@
-# MUSR
+# MUSR, The smart attendance app
