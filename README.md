@@ -15,13 +15,17 @@
 [Contact](#paragraph4)
 
 ## INTRODUCTION<a name="introduction"></a>
+a software which enables a user to scan a QR for attendance which changes after every scan   
+sorry no more proxy now
+
 ## FEATURES <a name="paragraph1"></a>
 
 dynamic QR Geneator
 easy course creation  
 export data in excel spreadsheet    
 seperate student and faculty portal  
-simple UI for a hassel free experience  
+simple UI for a hassel free experience 
+free of cost
 
 availaible on google play
 
@@ -32,5 +36,5 @@ Hello World !! I am Suraj Kumar, a CSE undergraduate and a passionate full-stack
 
 
 ## CONTACT <a name="paragraph4"></a>
-I can be reached at 202011069@diu.iiitvadodara.ac.in  
+I can be reached at surajverma2910@gmail.com  
 link to linkedin and other public profiles to be added
