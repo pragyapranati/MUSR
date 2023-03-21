@@ -1,5 +1,8 @@
-# <p align=center>MUSR, The Smart Attendance App
-![Alt img](/posts/path/to/musr.png "app icon")</p>
+# <p align=center>MUSR, The Smart Attendance Software</p>
+<p align="center">
+  <img width="200" height="200" src="musr.png">
+</p>
+  
 # Table of Contents
 [Introduction](#introduction)  
 
@@ -11,8 +14,8 @@
 
 [Contact](#paragraph4)
 
-## this is an introduction <a name="introduction"></a>
-## features <a name="paragraph1"></a>
-## use of app  <a name="paragraph2"></a>
-## dev note  <a name="paragraph3"></a>
-## contact <a name="paragraph4"></a>
+## INTRODUCTION<a name="introduction"></a>
+## FEATURES <a name="paragraph1"></a>
+## UTILISATION  <a name="paragraph2"></a>
+## DEVELOPER'S NOTE  <a name="paragraph3"></a>
+## CONTACT <a name="paragraph4"></a>
