@@ -16,6 +16,10 @@
 
 ## INTRODUCTION<a name="introduction"></a>
 ## FEATURES <a name="paragraph1"></a>
+
+dynamic QR Geneator
+export data in excel spreadsheet  
+
 ## UTILISATION  <a name="paragraph2"></a>
 ## DEVELOPER'S NOTE  <a name="paragraph3"></a>
 ## CONTACT <a name="paragraph4"></a>
