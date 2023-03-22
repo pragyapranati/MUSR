@@ -19,7 +19,8 @@ a software which enables a user to scan a QR for attendance which changes after 
 sorry no more proxy now
 
 ## FEATURES <a name="paragraph1"></a>
-
+<img width="100" height="100" src="sportal.jpg" align="left" > 
+<img width="100" height="100" src="login.jpg" align="left"><img width="100" height="100" src="easyccreate.jpg" align="left"><img width="100" height="100" src="newregis.jpg" align="left"><img width="100" height="100" src="splashscreen.jpg" align="left"><img width="100" height="100" src="tportal.jpg" align="left"><img width="100" height="100" src="tportal2.jpg" align="left">
 dynamic QR Geneator
 easy course creation  
 export data in excel spreadsheet    
