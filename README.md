@@ -37,4 +37,7 @@ developed focusing and addressing the ease of automated attendance in academic a
 
 ## CONTACT <a name="paragraph4"></a>
 I can be reached at surajverma2910@gmail.com  
-link to linkedin and other public profiles to be added
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
