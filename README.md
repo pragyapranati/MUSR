@@ -1,6 +1,6 @@
 # <p align=center>MUSR, The Smart Attendance Software</p>
 <p align="center">
-<img width="200" height="200" src="musr.png">
+<img width="180" height="200" src="musr.png">
 </p>
   
 # Table of Contents
@@ -32,7 +32,7 @@ availaible on google play
 ## UTILISATION  <a name="paragraph2"></a>
 developed focusing and addressing the ease of automated attendance in academic as well as non academic institutions with a future vision to expand its scope to user record maintainance
 ## DEVELOPER'S NOTE  <a name="paragraph3"></a>
-Hello World !! I am Suraj Kumar, a CSE undergraduate and a passionate full-stack developer. Well the pain of B.Tech students coming to boring lectures for attendance and professers not willing to take one for such a large number of students had motivated me for this one stop solution. This is how my journey with MUSR has started and I look forward to people joining me with their valuable suggestions. 
+<img width="100" height="100" src="developer.jpg" align="left"> Hello World !! I am Suraj Kumar, a CSE undergraduate and a passionate full-stack developer. Well the pain of B.Tech students coming to boring lectures for attendance and professers not willing to take one for such a large number of students had motivated me for this one stop solution. This is how my journey with MUSR has started and I look forward to people joining me with their valuable suggestions. 
 
 
 ## CONTACT <a name="paragraph4"></a>
