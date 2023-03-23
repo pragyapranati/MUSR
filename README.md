@@ -18,9 +18,23 @@
 a software which enables a user to scan a QR for attendance which changes after every scan   
 sorry no more proxy now
 
-## FEATURES <a name="paragraph1"></a>
-<img width="100" height="100" src="sportal.jpg" align="left" > 
-<img width="100" height="100" src="login.jpg" align="left"><img width="100" height="100" src="easyccreate.jpg" align="left"><img width="100" height="100" src="newregis.jpg" align="left"><img width="100" height="100" src="splashscreen.jpg" align="left"><img width="100" height="100" src="tportal.jpg" align="left"><img width="100" height="100" src="tportal2.jpg" align="left">
+## FEATURES <a name="paragraph1"></a>  
+<img width="100" height="100" src="sportal.jpg"> | <img width="100" height="100" src="login.jpg">
+:--:|:--:
+<b>student portal</b>|<b>login page</b>  
+
+<img width="100" height="100" src="login.jpg"> | <img width="100" height="100" src="easycreate.jpg">
+:--:|:--:
+<b>login page</b>|<b>create</b> 
+
+<img width="100" height="100" src="newregis.jpg"> | <img width="100" height="100" src="splashscreen.jpg">
+:--:|:--:
+<b>new registration</b>|<b>splash screen</b>   
+
+<img width="100" height="100" src="tportal.jpg"> | <img width="100" height="100" src="tportal2.jpg">
+:--:|:--:
+<b>teacher portal</b>|<b>teacher portal</b> 
+
 dynamic QR Geneator
 easy course creation  
 export data in excel spreadsheet    
@@ -33,7 +47,7 @@ availaible on google play
 ## UTILISATION  <a name="paragraph2"></a>
 developed focusing and addressing the ease of automated attendance in academic as well as non academic institutions with a future vision to expand its scope to user record maintainance
 ## DEVELOPER'S NOTE  <a name="paragraph3"></a>
-<img width="100" height="100" src="devloper.jpg" align="left"> Hello World !! I am Suraj Kumar, a CSE undergraduate and a passionate full-stack developer. Well the pain of B.Tech students coming to boring lectures for attendance and professers not willing to take one for such a large number of students had motivated me for this one stop solution. This is how my journey with MUSR has started and I look forward to people joining me with their valuable suggestions. 
+<img width="100" height="100" src="devloper.jpg" align="left"> Hello World !! I am Suraj Kumar, a CSE undergraduate with a passion for full-stack developement. Well the pain of B.Tech students coming to boring lectures for attendance and professers not willing to take one for such a large number of students had motivated me for this one stop solution. This is how my journey with MUSR has started and I look forward to people joining me with their valuable suggestions. 
 
 
 ## CONTACT <a name="paragraph4"></a>
