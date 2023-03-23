@@ -19,7 +19,7 @@ a software which enables a user to scan a QR for attendance which changes after 
 sorry no more proxy now
 
 ## FEATURES <a name="paragraph1"></a>  
-<img width="200" height="500" src="sportal.jpg"> | <img width="200" height="500" src="login.jpg"> | <img width="200" height="500" src="easyccreate.jpg">
+<img width="300" height="500" src="sportal.jpg"> | <img width="300" height="500" src="login.jpg"> | <img width="300" height="500" src="easyccreate.jpg">
 :--:|:--:|:--:
 <b>student portal</b>|<b>login page</b>|<b>login page</b>|<b>create</b>  
 
